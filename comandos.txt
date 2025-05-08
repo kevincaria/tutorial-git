@@ -1,0 +1,21 @@
+git clone <url del archivo>
+git add <archivo>
+git add .
+git commit -m "<mensaje>"
+git push
+git pull
+git switch -c <nombre de la rama>
+git switch
+git checkout -b <nombre de la rama>
+git checkout
+git merge <nombre de la rama>
+
+
+
+-------- ADICCIONALES ---------
+git init               --git init – Iniciar un nuevo repositorio en una carpeta local--
+git status             --Ver qué archivos cambiaron y si están agregados o no--
+git log                --Ver el historial de commit--
+git config – Configurar tu usuario y correo:
+git config --global user.name <Usuario>
+git config --global user.email <Email>

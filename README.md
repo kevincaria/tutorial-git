@@ -33,7 +33,7 @@ Una buena práctica es **no trabajar todos en la rama `main`**. Creen ramas por 
 git switch -c nombre-de-la-rama
 ```
 
-> `switch` es el comando moderno para moverse entre ramas. Evitamos `checkout` porque es más propenso a confusión y está siendo reemplazado. (Aunque se sigue utilizando)
+> `switch` es el comando moderno para moverse entre ramas. Evitamos `checkout` porque es más propenso a confusión y está siendo reemplazado. (Aunque se sigue utilizando - Tambipen sirve para restaurar un archivo)
 
 > El -c le indica a git que cree una rama nueva y cambie a esta en un solo paso.
 
