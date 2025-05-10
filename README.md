@@ -1,6 +1,3 @@
-# Guía práctica de Git y GitHub para el Trabajo Práctico.
-
-
 
 ## 🛠️ Comandos básicos
 
