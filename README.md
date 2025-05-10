@@ -12,6 +12,9 @@ git push               # Sube los cambios al repositorio remoto
 git pull               # Baja y fusiona los últimos cambios del repositorio remoto
 ```
 
+
+
+
 ### 🚨 Tips:
 - No hagan commits con mensajes genéricos como "cambios", "arreglos", "fix".
 - Usen mensajes que expliquen **qué** hicieron: `agrega endpoint de getPosts`, `fix en validación de schemas en usuarios`.
