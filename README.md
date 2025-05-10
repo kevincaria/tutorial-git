@@ -1,7 +1,8 @@
 # Guía práctica de Git y GitHub para el Trabajo Práctico.
 
+NUEVO CONFLICTO
 
-## 🛠️ Comandos básicos
+## 🛠️ Comandos básicos de git.
 
 Estos son los comandos que más van a usar durante el TP:
 
