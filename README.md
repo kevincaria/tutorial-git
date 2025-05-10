@@ -1,5 +1,6 @@
 # Guía práctica de Git y GitHub para el Trabajo Práctico.
 
+
 NUEVO CONFLICTO
 
 ## 🛠️ Comandos básicos de git.
@@ -84,11 +85,7 @@ git pull origin main
 Se dan cuando dos personas editan las mismas líneas. Git les va a mostrar algo como:
 
 ```text
-<<<<<<< HEAD
-versión de main
-=======
-versión de mi rama
->>>>>>> rama-secundaria
+
 ```
 
 Desde Visual Studio Code se puede resolver fácilmente eligiendo qué cambios mantener o combinarlos.
@@ -178,11 +175,7 @@ Vas a ver que GitHub detecta un **conflicto**.
 ### Desde Visual Studio Code
 - Si hacés `git pull origin main` desde `rama-nico` después del merge de `rama-kevin`, se verá el conflicto en el archivo:
 ```text
-<<<<<<< HEAD
-Hola desde Nico
-=======
-Hola desde Kevin
->>>>>>> main
+
 ```
 
 - VS Code ofrece botones para elegir una versión o ambas
